@@ -21,7 +21,7 @@
 - 🌱 Learning new tools and modern frameworks  
 - 🎯 Goal: write clean, useful, and creative code  
 - ⚡ Fun fact: I enjoy turning simple ideas into working projects  
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **ishantpbupadhyay@gmaol.com**
 
 <br clear="right"/>
 
