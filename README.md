@@ -37,7 +37,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/gifs/Coding.gif" width="200" alt="Coding animation" />
+<img src="3221.png" width="200" alt="Coding animation" />
 
 </td>
 </tr>
