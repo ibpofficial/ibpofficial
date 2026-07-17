@@ -32,7 +32,7 @@
 - 🌱 Learning new tools and modern frameworks  
 - 🎯 Goal: write clean, useful, and creative code  
 - ⚡ Fun fact: I enjoy turning simple ideas into working projects  
-- 📫 Reach me at: **ishantpbupadhyay@gmaol.com**
+- 📫 Reach me at: **ishantpbupadhyay@gmail.com**
 
 </td>
 <td width="40%" align="center">
