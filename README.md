@@ -78,13 +78,13 @@
 <div align="center">
 
 <a href="https://github.com/ibpofficial?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ibpofficial&repo=REPLACE-WITH-REPO-1&theme=radical&hide_border=true&bg_color=0d1117" alt="Pinned Repo 1" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=ibpofficial&repo=YOUR-REPO-NAME-1&theme=radical&hide_border=true&bg_color=0d1117" alt="Pinned Repo 1" />
 </a>
 <a href="https://github.com/ibpofficial?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ibpofficial&repo=REPLACE-WITH-REPO-2&theme=radical&hide_border=true&bg_color=0d1117" alt="Pinned Repo 2" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=ibpofficial&repo=YOUR-REPO-NAME-2&theme=radical&hide_border=true&bg_color=0d1117" alt="Pinned Repo 2" />
 </a>
 
-<sub>✏️ Replace <code>REPLACE-WITH-REPO-1/2</code> with your actual repository names to pin your best work here.</sub>
+<sub>⚠️ This card won't render until <code>YOUR-REPO-NAME-1/2</code> are swapped for real, existing repo names of yours — a placeholder repo that doesn't exist returns a broken image.</sub>
 
 </div>
 
@@ -96,17 +96,19 @@
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibpofficial&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=c4b5fd&icon_color=9B59B6&text_color=e6e6e6" alt="GitHub Stats" width="100%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ibpofficial&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=c4b5fd&icon_color=9B59B6&text_color=e6e6e6" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibpofficial&theme=radical&hide_border=true&background=0d1117&stroke=2E86DE&ring=9B59B6&fire=9B59B6&currStreakLabel=c4b5fd" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=ibpofficial&theme=radical&hide_border=true&background=0d1117&stroke=2E86DE&ring=9B59B6&fire=9B59B6&currStreakLabel=c4b5fd" alt="GitHub Streak" width="100%" />
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibpofficial&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c4b5fd" alt="Top Languages" width="55%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ibpofficial&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c4b5fd" alt="Top Languages" width="55%" />
 </div>
+
+<sub align="center">Note: the original <code>github-readme-stats.vercel.app</code> and <code>...herokuapp.com</code> domains are largely retired now — this uses their actively maintained successors, <code>github-stats-extended.vercel.app</code> and <code>streak-stats.demolab.com</code>.</sub>
 
 ---
 
@@ -135,13 +137,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibpofficial&theme=react-dark&hide_border=true&bg_color=0d1117&color=c4b5fd&line=9B59B6&point=2E86DE&area=true" alt="Activity Graph" width="90%" />
-</div>
-
----
-
-<!-- ===== RANDOM DEV QUOTE ===== -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
 </div>
 
 ---
